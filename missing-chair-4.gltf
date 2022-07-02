@@ -1,0 +1,247 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.8.19",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "<nasloni2m",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                0.7071067690849304
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "name" : "mat2.001",
+            "pbrMetallicRoughness" : {}
+        },
+        {
+            "name" : "mat0.001",
+            "pbrMetallicRoughness" : {}
+        },
+        {
+            "name" : "mat1.001",
+            "pbrMetallicRoughness" : {}
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "<nasloni2m.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "NORMAL" : 5,
+                        "TEXCOORD_0" : 6
+                    },
+                    "indices" : 7,
+                    "material" : 1
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 8,
+                        "NORMAL" : 9,
+                        "TEXCOORD_0" : 10
+                    },
+                    "indices" : 11,
+                    "material" : 2
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 24113,
+            "max" : [
+                23.28564453125,
+                25.260372161865234,
+                34.99060821533203
+            ],
+            "min" : [
+                -23.349750518798828,
+                9.666877746582031,
+                22.649887084960938
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 24113,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 24113,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 24114,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 143311,
+            "max" : [
+                22.523826599121094,
+                23.952510833740234,
+                28.718704223632812
+            ],
+            "min" : [
+                -22.58792495727539,
+                -25.069408416748047,
+                -41.97139358520508
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 143311,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 143311,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5125,
+            "count" : 143424,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 8,
+            "componentType" : 5126,
+            "count" : 76600,
+            "max" : [
+                22.922279357910156,
+                16.111698150634766,
+                3.3920440673828125
+            ],
+            "min" : [
+                -22.986385345458984,
+                -26.429901123046875,
+                -0.2650642395019531
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 9,
+            "componentType" : 5126,
+            "count" : 76600,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 10,
+            "componentType" : 5126,
+            "count" : 76600,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 11,
+            "componentType" : 5125,
+            "count" : 76608,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 289356,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 289356,
+            "byteOffset" : 289356
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 192904,
+            "byteOffset" : 578712
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48228,
+            "byteOffset" : 771616
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1719732,
+            "byteOffset" : 819844
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1719732,
+            "byteOffset" : 2539576
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1146488,
+            "byteOffset" : 4259308
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 573696,
+            "byteOffset" : 5405796
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 919200,
+            "byteOffset" : 5979492
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 919200,
+            "byteOffset" : 6898692
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 612800,
+            "byteOffset" : 7817892
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 306432,
+            "byteOffset" : 8430692
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 8737124,
+            "uri" : "missing-chair-4.bin"
+        }
+    ]
+}
